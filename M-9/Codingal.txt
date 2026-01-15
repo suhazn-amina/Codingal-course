@@ -1,0 +1,5 @@
+Codingal is on a mission to make kids fall in love with coding.
+file in write mode....Hi! I am penguin. I am 1 yr old.
+File in append mode....Hi! Iam penguin> I am 1 yr old.
+I am a student at Codingal
+Coding is good for health.
